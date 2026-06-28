@@ -37,8 +37,6 @@ I am QA Engineer from 2020.
 
 ### 📊 Statistics
 
-<p align="center">
-    ![Zaur's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zmamedov&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmamedov&layout=compact)](https://github.com/zmamedov/github-readme-stats)
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmamedov&theme=dark)](https://git.io/streak-stats)
-</p>
+![Zaur's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zmamedov&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmamedov&layout=compact)](https://github.com/zmamedov/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmamedov&theme=dark)](https://git.io/streak-stats)

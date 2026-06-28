@@ -38,4 +38,5 @@ I am QA Engineer from 2020.
 ### 📊 Statistics
 
 ![Zaur's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zmamedov&theme=radical)
-![Zaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmamedov&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmamedov&layout=compact)](https://github.com/zmamedov/github-readme-stats)
+<img src="https://vercel.app" alt="Top Languages" />

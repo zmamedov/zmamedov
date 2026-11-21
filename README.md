@@ -37,6 +37,6 @@ I am QA Engineer from 2020.
 
 ### 📊 Statistics
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=zmamedov&border_radius=20&hide=followers%2Cstreak%2Cweek%2Cavg%2Cactive_day)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=zmamedov&border_radius=20&custom_title=My+statistics&hide=followers%2Cstreak%2Cweek%2Cavg%2Cactive_day)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmamedov&theme=dark)](https://git.io/streak-stats)
